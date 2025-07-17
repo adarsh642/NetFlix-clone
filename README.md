@@ -8,9 +8,12 @@ Made for learning and practicing front-end skills.
 - Netflix-style header & background
 - Clean CSS-only layout
 
+## 🔗 Live Preview
+[View Live Demo](https://net-flix-clone-lemon.vercel.app/)
+
 ## 🛠️ Tech Stack
 - HTML5
-- CSS
-
+- CSS3
 
 > ⚠️ This is a non-commercial, educational clone of the Netflix homepage UI.
+
